@@ -115,7 +115,7 @@ a {
     text-decoration: underline;
   }
 
-  .social-media-list &:hover {
+  .sm-list &:hover {
     text-decoration: none;
 
     .username {
@@ -217,7 +217,7 @@ pre {
     vertical-align: text-top;
 }
 
-.social-media-list {
+.sm-list {
   li + li {
     padding-top: 5px;
   }
