@@ -1,0 +1,25 @@
+.site-title {
+    width: 100%;
+    text-align: center;
+    padding: 3rem 0 0;
+
+    h1 {
+        font-family: "Special Elite", cursive;
+        margin: 0;
+        font-size: 2rem;
+        letter-spacing: 0.2rem;
+    }
+
+    h2 {
+        font-family: "Times New Roman", cursive;
+        letter-spacing: .1rem;
+        font-size: 1rem;
+        line-height: 1rem;
+        width: 450px;
+        display: inline-block;
+    }
+
+    &:hover, &:focus {
+        text-decoration: none;
+    }
+}
