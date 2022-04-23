@@ -19,7 +19,7 @@
         display: inline-block;
     }
 
-    &:hover, &:focus {
+    &:hover, &:focus, &:visited {
         text-decoration: none;
     }
 }

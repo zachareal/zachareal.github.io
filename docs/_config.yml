@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: zachareal | The untold story of the infamous Twitch streamer zacharealtv
-wordmark: Gingerbread Man
-subtitle: The untold story of perseverance in the face of adversity and overcoming insurmountable odds.
+title: zachareal — The untold story of the infamous Twitch streamer zacharealtv
+wordmark: gingerbread man.
+subtitle: "The true untold story of ZACHAREAL: an epic tale of perseverance in the face of adversity and overcoming insurmountable odds."
 email: inquiries@zachareal.com
 description: >- # this means to ignore newlines until "baseurl:"
   The untold story of the infamous Twitch streamer zacharealtv
