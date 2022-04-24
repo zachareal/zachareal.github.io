@@ -20,7 +20,7 @@
 
   &,
   &:visited {
-    color: darken($grey-color, 10%);
+    color: darken($grey-color, 20%);
   }
 }
 
@@ -108,10 +108,10 @@
 .site-footer {
   // border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  font-family: "Times New Roman", serif;
+  font-family: "Source Serif Pro", cursive;
 
   a {
-    color: darken($grey-color, 10%);
+    color: darken($grey-color, 20%);
     font-size: 1rem;
   }
 }
