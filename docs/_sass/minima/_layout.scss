@@ -274,3 +274,9 @@ iframe.hero-video {
     width: 100%;
     height: 100%;
 }
+
+p.caption {
+  color: lighten($grey-color, 20%);
+  font-size: 0.8rem;
+  padding: 0.7rem;
+}
