@@ -4,7 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <h1>{{ site.wordmark | escape }}</h1>
+    
+      <h1><img id="logo" src="{{ '/assets/img/face_watercolour.png' | relative_url}}" alt="zachareal"></h1>
       <h2>{{ site.subtitle | escape }}</h2>
     </a>
     
