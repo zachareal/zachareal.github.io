@@ -31,6 +31,11 @@ twitch_username: zacharealtv
 instagram_username: zacharealtv
 #github_username:  jekyll
 
+header_pages: 
+  - index.markdown
+  - sports.markdown
+  - politics.markdown
+
 # Build settings
 theme: minima
 plugins:

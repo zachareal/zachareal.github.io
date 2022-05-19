@@ -27,6 +27,25 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  text-align: left;
+  border-top: 2px solid #333;
+
+  .align-right {
+    float: right;
+
+    .page-link:not(:last-child) {
+      margin-right: 10px;
+      
+      @include media-query($on-palm) {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .svg-icon {
+    transform: scale(1.4);
+    fill: $grey-color-dark;
+  }
 
   .nav-trigger {
       display: none;
@@ -44,6 +63,10 @@
     &:not(:last-child) {
       margin-right: 20px;
     }
+  }
+
+  @media screen and (min-width: 601px) {
+    width: 100%;
   }
 
   @include media-query($on-palm) {
@@ -186,6 +209,11 @@
   flex: 1;
 }
 
+.post {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 .page-heading {
   @include relative-font-size(2);
 }
@@ -226,6 +254,7 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  font-weight: bold;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
