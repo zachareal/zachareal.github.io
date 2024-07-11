@@ -6,13 +6,13 @@ layout: default
 title: Home
 ---
 <div class="video">
-    <iframe class="hero-video" src="https://www.youtube-nocookie.com/embed/watch?v=5BhE7jf9hNQ?origin=https://zachareal.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen alt="ZACHAREAL demonstrates how to use a CNC machine to create a gingerbread money laundering laundromat."></iframe>
+    <iframe class="hero-video" src="https://www.youtube-nocookie.com/embed/5BhE7jf9hNQ?si=RfkjG9hEEVfikM8Y?origin=https://zachareal.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen alt="ZACHAREAL demonstrates how to use a CNC machine to create a gingerbread money laundering laundromat."></iframe>
 </div>
 <p class="caption">
     ZACHAREAL demonstrates how to use a CNC machine to create a gingerbread money laundering laundromat. © zacharealtv 2023
 </p>
 <div class="video">
-    <iframe class="hero-video" src="https://www.youtube-nocookie.com/embed/watch?v=3kevi95Avmc?origin=https://zachareal.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen alt="ZACHAREAL creates a gingerbread Viking longship."></iframe>
+    <iframe class="hero-video" src="https://www.youtube-nocookie.com/embed/3kevi95Avmc?si=jEFkUphuUKjpcZ3o?origin=https://zachareal.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen alt="ZACHAREAL creates a gingerbread Viking longship."></iframe>
 </div>
 <p class="caption">
     ZACHAREAL creates a gingerbread Viking longship. © zacharealtv 2022
